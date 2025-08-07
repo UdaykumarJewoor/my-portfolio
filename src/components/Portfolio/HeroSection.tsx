@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Download, Github, Linkedin, Mail, ArrowDown, Code, Server, Database } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profilePicture from '@/assets/uday-profile.jpg';
+import profilePicture from '@/assets/uday-profile (1).jpg';
 
 const HeroSection = () => {
   const [displayedText, setDisplayedText] = useState('');
