@@ -6,7 +6,7 @@ const AboutSection = () => {
     {
       icon: Code,
       title: 'Full Stack Development',
-      description: '2+ years of experience building end-to-end web applications'
+      description: 'Backend developer with 3+ years of experience building scalable web applications'
     },
     {
       icon: Server,
@@ -33,7 +33,7 @@ const AboutSection = () => {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Passionate Software Engineer with 2+ years of experience creating 
+            Passionate Software Engineer with 3+ years of experience creating 
             robust web applications and scalable backend systems.
           </p>
         </div>

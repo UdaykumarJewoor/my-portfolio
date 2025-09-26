@@ -16,7 +16,7 @@ const SkillsSection = () => {
     {
       title: 'Frontend Development',
       icon: Globe,
-      skills: ['HTML5', 'CSS3', 'JavaScript', 'React', 'Responsive Design'],
+      skills: ['HTML5', 'CSS3', 'JavaScript', 'Responsive Design'],
       color: 'text-green-400'
     },
     {
@@ -98,7 +98,7 @@ const SkillsSection = () => {
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-semibold mb-8">Currently Learning</h3>
           <div className="flex flex-wrap justify-center gap-3">
-            {['Spring Security', 'JWT Advanced', 'Docker', 'Kubernetes', 'AWS', 'React Native'].map((skill, index) => (
+            {['Spring Security', 'JWT Advanced', 'Docker', 'Kubernetes', 'AWS', 'React'].map((skill, index) => (
               <Badge 
                 key={index}
                 className="bg-primary/10 text-primary border border-primary/30 hover:bg-primary/20 transition-smooth"

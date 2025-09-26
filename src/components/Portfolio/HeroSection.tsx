@@ -99,13 +99,14 @@ const HeroSection = () => {
               </span>
             </div>
             
-            <p className="text-lg text-muted-foreground mb-8 max-w-2xl leading-relaxed">
-              Building seamless web experiences with{' '}
-              <span className="text-primary font-semibold">robust backend systems</span> and{' '}
-              <span className="text-primary font-semibold">clean frontend interfaces</span>. 
-              Passionate about creating scalable solutions and learning new technologies.
-            </p>
-            
+           <p className="text-lg text-muted-foreground mb-8 max-w-2xl leading-relaxed">
+  Building seamless web experiences with{' '}
+  <span className="text-primary font-semibold">robust backend systems</span>, 
+  ensuring scalability, performance, and reliability. Passionate about 
+  <span className="text-primary font-semibold"> creating efficient solutions </span> 
+  and continuously learning new technologies.
+</p>
+
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
               <Button 
                 size="lg" 
