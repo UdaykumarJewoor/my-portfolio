@@ -33,7 +33,7 @@ const ProjectsSection = () => {
       ],
       technologies: ['Python', 'Flask', 'PostgreSQL', 'OpenAI API', 'External APIs', 'React'],
       githubUrl: '#',
-      liveUrl: '#'
+      liveUrl: 'https://uat.fastays.com/'
     }
   ];
 

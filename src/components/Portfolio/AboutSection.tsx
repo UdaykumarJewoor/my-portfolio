@@ -33,7 +33,7 @@ const AboutSection = () => {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Passionate Software Engineer with 2+ years of experience creating 
+            Passionate Software Engineer with 3+ years of experience creating 
             robust web applications and scalable backend systems.
           </p>
         </div>
@@ -43,7 +43,7 @@ const AboutSection = () => {
             <h3 className="text-2xl font-semibold mb-6">My Journey</h3>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                I'm a dedicated Software Engineer with 2+ years of hands-on experience 
+                I'm a dedicated Software Engineer with 3+ years of hands-on experience 
                 in building comprehensive web solutions. My expertise lies in creating seamless 
                 connections between robust backend systems and intuitive frontend interfaces.
               </p>

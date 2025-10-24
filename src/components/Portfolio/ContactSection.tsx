@@ -52,7 +52,7 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: 'Portfolio',
-      href: 'https://udaykumarjewoor.github.io/portfolio'
+      href: 'mailto:uday.techielife@hotmail.com'
     }
   ];
 
