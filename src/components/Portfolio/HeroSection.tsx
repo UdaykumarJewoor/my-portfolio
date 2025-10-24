@@ -113,7 +113,7 @@ const HeroSection = () => {
                 className="group relative overflow-hidden portfolio-gradient hover:scale-105 portfolio-shadow transition-all duration-300"
                 asChild
               >
-                <a href="https://drive.google.com/file/d/1J7kBuT9itYnnFyrnwEwL5Wk9y2sjduCX/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   <div className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   <Download className="mr-2 h-5 w-5 group-hover:animate-bounce" />
                   Download Resume
