@@ -18,7 +18,7 @@ const ProjectsSection = () => {
       ],
       technologies: ['Java', 'Spring Boot', 'Microservices', 'PostgreSQL', 'Razorpay API', 'JWT'],
       githubUrl: '#',
-      liveUrl: '#'
+      liveUrl: 'https://uat.fastays.com/'
     },
     {
       title: 'Resume Parser',
@@ -33,7 +33,7 @@ const ProjectsSection = () => {
       ],
       technologies: ['Python', 'Flask', 'PostgreSQL', 'OpenAI API', 'External APIs', 'React'],
       githubUrl: '#',
-      liveUrl: 'https://uat.fastays.com/'
+      liveUrl: '#'
     }
   ];
 
