@@ -6,7 +6,7 @@ const AboutSection = () => {
     {
       icon: Code,
       title: 'Full Stack Development',
-      description: '2+ years of experience building end-to-end web applications'
+      description: 'Backend developer with 3+ years of experience building scalable web applications'
     },
     {
       icon: Server,

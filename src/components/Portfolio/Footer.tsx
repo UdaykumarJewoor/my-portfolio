@@ -12,9 +12,13 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
             <p className="text-muted-foreground">
+<<<<<<< HEAD
               © 2024 Udaykumar Jewoor. 
               {/* <Heart className="inline h-4 w-4 text-red-500" />{' '} */}
               {/* using React & Tailwind CSS */}
+=======
+             © 2024 <span class="font-semibold">Udaykumar Jewoor</span>. All rights reserved.
+>>>>>>> 0b161ca901ba7ad8cc70412678f727f9331ac311
             </p>
           </div>
           
